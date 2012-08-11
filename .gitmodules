@@ -1,0 +1,3 @@
+[submodule "libraries/CapTouch"]
+	path = libraries/CapTouch
+	url = git://gist.github.com/2941071.git
